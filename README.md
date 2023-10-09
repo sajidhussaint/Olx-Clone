@@ -2,7 +2,8 @@
 
 A clone of OLX built using React.js and Firebase.
 
-![Alt text](https://github.com/sajidhussaint/Olx-Clone/blob/master/public/Images/Capture.JPG)
+![Alt Olx](https://github.com/sajidhussaint/Olx-Clone/blob/master/public/Images/Capture.JPG)
+![Alt Olx2](https://github.com/sajidhussaint/Olx-Clone/blob/master/public/Images/Capture2.JPG)
 
 ## Features
 
