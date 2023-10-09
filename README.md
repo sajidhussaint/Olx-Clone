@@ -2,7 +2,7 @@
 
 A clone of OLX built using React.js and Firebase.
 
-![Alt text](https://drive.google.com/drive/folders/19vlEyT7QEGmnFfIVyLvp-72ZuIkrTB-u)
+![good](https://cdn.arstechnica.net/wp-content/uploads/2011/07/lion_gallery_intro-4e24a11-intro.png)
 
 ## Features
 
