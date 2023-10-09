@@ -2,6 +2,8 @@
 
 A clone of OLX built using React.js and Firebase.
 
+![Alt text](https://drive.google.com/drive/folders/19vlEyT7QEGmnFfIVyLvp-72ZuIkrTB-u)
+
 ## Features
 
 - User authentication
